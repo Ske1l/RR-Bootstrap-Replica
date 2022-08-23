@@ -29,7 +29,7 @@ color:red
 const ComplaintContainer = styled(Container)`
 margin-top: 3em;
 font-size: 3em;
-color:rainbow
+color: magenta
 `
 
 
